@@ -5,7 +5,7 @@ Exploratory analysis of a Kaggle “Chocolate Sales” dataset to identify top m
 ## Quick View
 - **Analysis Summary (PDF):** `reports/Chocolate Sales Analysis Summary.pdf`
 - **Notebook (PDF export):** `notebooks/Project 1 - Chocolate Sales.pdf`
-- **Key charts:** see screenshots below (saved in `reports/images/`)
+- **Key charts:** 
 
 ## Key Findings
 
